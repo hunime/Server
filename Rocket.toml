@@ -1,0 +1,3 @@
+[default]
+secret_key = "b0NXZGtTRHFTTDBzQVRZdEM2bzRBc2ZBcVdxa3JuNEV4UktOUGxvMDRCNzlqczdnUGdBRkRITDJQMGtveGVWUg=="
+template_dir = "templates"

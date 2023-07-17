@@ -1,6 +1,8 @@
 #[macro_use]
 extern crate rocket;
 
+pub mod utils;
+
 mod routes;
 
 use rocket_dyn_templates::Template;
